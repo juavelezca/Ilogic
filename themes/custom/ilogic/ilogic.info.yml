@@ -1,0 +1,16 @@
+name: ilogic
+type: theme
+description: 'Tema custom prueba de selección Ilógica.'
+core_version_requirement: ^8 || ^9
+libraries:
+  - ilogic/global-styling
+  - ilogic/global-js
+regions:
+  header: 'Header'
+  content: 'Content'
+  sponsors: 'Sponsors'
+  sidebar_first: 'Sidebar-first'
+  sidebar_second: 'Sidebar-second'
+  page_top: 'Page-top'
+  page_bottom: 'Page bottom'
+  footer: 'Footer'

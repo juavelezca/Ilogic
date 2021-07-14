@@ -1,0 +1,14 @@
+global-styling:
+    css:
+      theme:
+        assets/css/bootstrap.css: {}
+        assets/css/maicons.css: {}
+        assets/css/mobster.css: {}
+global-js:
+  js:
+    assets/js/bootstrap.bundle.min.js: {}
+    assets/js/google-maps.js: {}
+    assets/js/jquery-3.5.1.min.js: {}
+    assets/js/mobster.js: {}
+  dependencies:
+    - core/jquery
